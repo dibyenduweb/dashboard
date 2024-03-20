@@ -5,6 +5,7 @@ const closeBtn = document.querySelector('#close_btn');
 
 const themeToggler = document.querySelector('.theme-toggler');
 
+/* done by dibyendu Pramanik */
 
 
 menuBtn.addEventListener('click',()=>{
